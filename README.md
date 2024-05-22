@@ -1,4 +1,4 @@
-## Hi there 👋
+ola meu nome é giovanna tenho 18 anos, estudo no theodoro Correa Cintra mais conhecido como tcc 
 
 <!--
 **gioh-silva/gioh-silva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
